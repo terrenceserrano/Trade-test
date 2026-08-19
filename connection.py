@@ -1,4 +1,4 @@
-#Library para makapag connect sa DB
+#Library para makapag connect sa database
 import psycopg2
 
 #Function block para sa Data Base connection
