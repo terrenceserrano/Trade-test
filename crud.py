@@ -26,7 +26,7 @@ def add():
     (employee_id, first_name, middle_name, last_name, birthday, department, position)
     VALUES (%s,%s,%s,%s,%s,%s,%s)
     """
-    #Eto yung argument values ng value parameter
+    #Eto yung values para ma add sa column ng postGRESQL
     values = (
         employee_id,
         first_name,
